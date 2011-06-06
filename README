@@ -21,6 +21,10 @@ In principle the same talk but more advanced features
 
 Tutorials & Ideas
 
+- Good Tutorial http://java.ociweb.com/mark/clojure/article.html
+
+- Project Euler http://projecteuler.net/
+
 XML / SVG
 - Generating XML to make SVG vector graphics (everybody loves XML? :)) http://www.learningclojure.com/2010/10/generating-xml-to-make-svg-vector.html
 - See also Analemma for creating SVG http://liebke.github.com/analemma/
