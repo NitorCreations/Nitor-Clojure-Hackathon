@@ -18,3 +18,15 @@ Rich Hickey talks about Clojure for Java programmers
 In principle the same talk but more advanced features
 - Clojure for Lisp Programmers 1/2 http://blip.tv/clojure/clojure-for-lisp-programmers-part-1-1319721
 - Clojure for Lisp Programmers 2/2 http://blip.tv/clojure/clojure-for-lisp-programmers-part-2-1319826
+
+Tutorials & Ideas
+
+XML / SVG
+- Generating XML to make SVG vector graphics (everybody loves XML? :)) http://www.learningclojure.com/2010/10/generating-xml-to-make-svg-vector.html
+- See also Analemma for creating SVG http://liebke.github.com/analemma/
+
+Web Applications with Clojure
+- Compojure https://github.com/weavejester/compojure/wiki
+
+Unit testing & Clojure
+- SO http://stackoverflow.com/questions/2444960/best-unit-testing-framework-for-clojure
