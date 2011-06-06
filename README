@@ -2,8 +2,19 @@ Let's get ready to rumble!
 
 - Getting Started
 
+How to install Clojure for example to Eclipse
 http://dev.clojure.org/display/doc/Getting+Started
 
-- Clojure Reference
+- Useful Links
 
-http://clojure.org/Reference
+Clojure Reference http://clojure.org/Reference
+
+Clojure Videos
+
+Rich Hickey talks about Clojure for Java programmers
+- Clojure for Java Programmers 1/2 http://blip.tv/clojure/clojure-for-java-programmers-1-of-2-989128
+- Clojure for Java Programmers 2/2 http://blip.tv/clojure/clojure-for-java-programmers-2-of-2-989262
+
+In principle the same talk but more advanced features
+- Clojure for Lisp Programmers 1/2 http://blip.tv/clojure/clojure-for-lisp-programmers-part-1-1319721
+- Clojure for Lisp Programmers 2/2 http://blip.tv/clojure/clojure-for-lisp-programmers-part-2-1319826
