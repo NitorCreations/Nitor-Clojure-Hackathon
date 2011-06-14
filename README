@@ -19,6 +19,9 @@ In principle the same talk but more advanced features
 - Clojure for Lisp Programmers 1/2 http://blip.tv/clojure/clojure-for-lisp-programmers-part-1-1319721
 - Clojure for Lisp Programmers 2/2 http://blip.tv/clojure/clojure-for-lisp-programmers-part-2-1319826
 
+Clojure Programming/Examples
+http://en.wikibooks.org/wiki/Clojure_Programming/Examples
+
 Tutorials & Ideas
 
 - Good Tutorial http://java.ociweb.com/mark/clojure/article.html
@@ -34,3 +37,7 @@ Web Applications with Clojure
 
 Unit testing & Clojure
 - SO http://stackoverflow.com/questions/2444960/best-unit-testing-framework-for-clojure
+- Robozzle development with Midje http://www.vimeo.com/19404746
+
+Clojure Problems
+- 4Clojure http://4clojure.com
